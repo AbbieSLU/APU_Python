@@ -1,3 +1,0 @@
-SaaqibRahman:myproject SaaqibRahman$ touch SaaqibRahman.txt
-SaaqibRahman:myproject SaaqibRahman$ ls 
-SaaqibRahman.txt
